@@ -1,0 +1,15 @@
+target/
+*.class
+
+### IntelliJ IDEA ###
+.idea/workspace.xml
+.idea/claudeCodeTabState.xml
+*.iml
+*.iws
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### OS ###
+.DS_Store
